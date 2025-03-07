@@ -19,3 +19,5 @@ The software functions as intended, and you can use it. However, i wouldn't reco
 Anyway, if you really want to try it out, you can refer to the **Settings Of Audio** file. All the audio settings are in this file, you just need to install **Voicemeeter**, **VB-CABLE** and **JAVA 8** or the latest ver, restart your computer, and follow the instructions in the **Settings Of Audio** file.  
 
 Thanks for checking out this project!
+
+![soundboard jpg](https://github.com/user-attachments/assets/11838a73-408e-4ecf-a7b7-4d67169ec1de)
